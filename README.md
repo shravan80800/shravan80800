@@ -2,14 +2,14 @@
 <h3 align="center">Full-Stack & AI Developer | B.E. Computer Engineering</h3>
 
 <p align="center">
-  I build high-leverage software, from agentic AI workflows to scalable web applications. I am passionate about solving complex business problems, exploring service-led software, and tackling competitive programming challenges.
+  I build high-leverage software, from comprehensive ERP systems to agentic AI workflows and scalable web applications. I am passionate about solving complex business problems, exploring service-led software, and tackling competitive programming challenges.
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Final-year Computer Engineering student.
-- 🤖 Specializing in **Agentic AI**, computer vision, and full-stack development.
+- 🎓 Final-year Computer Engineering student (9.05 SGPA).
+- 🤖 Specializing in **Agentic AI**, full-stack development, and computer vision.
 - 🏆 **HackForge 2025 Winner** and **Adobe India Hackathon 2025 Qualifier**.
 - 🤝 Former Vice President of the CESA Cultural Team (2023–24).
 
@@ -26,19 +26,25 @@
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Backend & Architecture:**
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **AI & Computer Vision:**
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
 
-### 🏗️ Featured Projects
+### 🏗️ Featured Projects & Live Demos
 
-*   **[Agentic AI Video Onboarding](link_to_repo):** A production-grade onboarding system built using Next.js, FastAPI, and LangGraph.
-*   **[Smart Adaptive Traffic Signal System](link_to_repo):** An AI-powered computer vision solution utilizing YOLOv11 and OpenCV to manage real-time congestion.
-*   **[Persona-Based PDF Section Extractor](link_to_repo):** A fully Dockerized document analysis pipeline.
-*   **[Nomflix](link_to_repo):** A React-based movie browsing application integrating the TMDB API.
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **[InvoiceOS](https://github.com/shravan80800/invoice-os)** | Full-stack ERP platform supporting GST compliance, dynamic PDF generation, real-time stock deduction, and expense ledgers. | `Next.js` `NestJS` `Prisma` `Clerk` | 🟢 [Live App (Vercel)](https://invoice-os-phi.vercel.app/) |
+| **[Agentic AI Video Onboarding](https://github.com/shravan80800/agentic-onboarding)** | Production-grade AI system for automated client onboarding. | `Next.js` `FastAPI` `LangGraph` | 🟢 [Live App / Demo](#) |
+| **[Smart Traffic Signal System](https://github.com/shravan80800/traffic-signal)** | Computer vision solution managing real-time congestion. | `YOLOv11` `OpenCV` `Python` | 🟢 [Live App / Demo](#) |
+| **[Persona-Based PDF Extractor](https://github.com/shravan80800/pdf-extractor)** | Dockerized NLP document analysis and extraction pipeline. | `Python` `Docker` `AI` | 🟢 [Live App / Demo](#) |
+| **[Nomflix](https://github.com/shravan80800/nomflix)** | Responsive movie browsing platform utilizing the TMDB API. | `React.js` `JavaScript` `API` | 🟢 [Live App / Demo](#) |
+| **[GrowthGPT](https://github.com/shravan80800/growthgpt)** | AI-driven growth and operational analytics tool. | `Next.js` `AI/LLM` | 🟢 [Live App (Vercel)](https://growthgpt81.vercel.app/) |
 
 ### 📊 GitHub Stats
 <p align="center">
