@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Final-year Computer Engineering student (9.05 SGPA).
+- 🎓 Final-year Computer Engineering student.
 - 🤖 Specializing in **Agentic AI**, full-stack development, and computer vision.
 - 🏆 **HackForge 2025 Winner** and **Adobe India Hackathon 2025 Qualifier**.
 - 🤝 Former Vice President of the CESA Cultural Team (2023–24).
