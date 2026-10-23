@@ -41,7 +41,7 @@
 |---------|-------------|------------|-------|
 | **[InvoiceOS](https://github.com/shravan80800/invoice-os)** | Full-stack ERP platform supporting GST compliance, dynamic PDF generation, real-time stock deduction, and expense ledgers. | `Next.js` `NestJS` `Prisma` `Clerk` | 🟢 [Live App (Vercel)](https://invoice-os-phi.vercel.app/) |
 | **[Agentic AI Video Onboarding](https://github.com/shravan80800/agentic-onboarding)** | Production-grade AI system for automated client onboarding. | `Next.js` `FastAPI` `LangGraph` | 🟢 [Live App / Demo](#) |
-| **[Smart Traffic Signal System](https://github.com/shravan80800/traffic-signal)** | Computer vision solution managing real-time congestion. | `YOLOv11` `OpenCV` `Python` | 🟢 [Live App / Demo](#) |
+| **[Smart Traffic Signal System](https://github.com/shravan80800/Adaptive-Traffic-Signal.git)** | Computer vision solution managing real-time congestion. | `YOLOv11` `OpenCV` `Python` | 🟢 [Live App / Demo](#) |
 | **[Persona-Based PDF Extractor](https://github.com/shravan80800/pdf-extractor)** | Dockerized NLP document analysis and extraction pipeline. | `Python` `Docker` `AI` | 🟢 [Live App / Demo](#) |
 | **[Nomflix](https://github.com/shravan80800/nomflix)** | Responsive movie browsing platform utilizing the TMDB API. | `React.js` `JavaScript` `API` | 🟢 [Live App / Demo](#) |
 | **[GrowthGPT](https://github.com/shravan80800/growthgpt)** | AI-driven growth and operational analytics tool. | `Next.js` `AI/LLM` | 🟢 [Live App (Vercel)](https://growthgpt81.vercel.app/) |
